@@ -1,0 +1,5 @@
+***** See --> https://bitbucket.org/interns_work/validitytesting/issues for Issues *****
+
+1. Turned off Arnal Sir's dictionary for now .
+2. Indexing of patterns in Parser.nonTerminals starts with 1. (dummy at index 0 )
+3. Indexing of sentences in Document.sentences starts with 1. (dummy at index 0 )
